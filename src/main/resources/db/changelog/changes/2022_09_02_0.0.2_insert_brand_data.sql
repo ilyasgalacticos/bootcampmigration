@@ -1,0 +1,1 @@
+INSERT INTO t_brands (name) VALUES ('Apple'), ('XIAOMI'), ('Samsung'), ('Nokia');
